@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gW2wsdRCa0lTIwIzATB1Nz3ULk2DMcyl1ywXXUBJQ+f1bc0rVzhM485CtwSplE71ABEgkvUxjKIby1MWNnB+JQ==",
+  "dgSpecHash": "j7n2OsARGUM7/z8sRwx8JQo9vjnpTk6okXXC2MA7J5Z3c5h/erOC7YTnh5+AHRBvn9Ff3FwFWXnH/w3KXrTL+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Documents\\My Web Sites\\TodoList\\TodoList.csproj",
+  "projectFilePath": "C:\\users\\Administrator\\Documents\\My Web Sites\\TodoList\\TodoList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
